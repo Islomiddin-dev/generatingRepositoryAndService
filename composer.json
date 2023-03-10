@@ -14,7 +14,7 @@
             "email": "hamisha0327@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {},
     "extra": {
         "laravel": {
