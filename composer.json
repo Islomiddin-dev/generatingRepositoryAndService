@@ -1,0 +1,19 @@
+{
+    "name": "islomiddin-dev/generating-repository-and-service",
+    "description": "Create Repository and Service design pattern files using php artisan command",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "IslomiddinDev\\GeneratingRepositoryAndService\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Islomiddin",
+            "email": "hamisha0327@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

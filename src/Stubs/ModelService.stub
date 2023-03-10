@@ -1,0 +1,15 @@
+<?php
+
+namespace App\Services;
+
+use App\Interfaces\Services\ModelServiceInterface;
+use App\Interfaces\Repositories\ModelRepositoryInterface;
+
+class ModelService implements ModelServiceInterface
+{
+    public function __construct(
+        private ModelRepositoryInterface $modelRepository,
+    )
+    {
+    }
+}
