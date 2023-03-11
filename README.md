@@ -6,6 +6,7 @@
 <a href="https://packagist.org/packages/islomiddin-dev/generating-repository-and-service"><img src="https://img.shields.io/packagist/l/islomiddin-dev/generating-repository-and-service" alt="License"></a>
 </p>
 
+
 ### Recommended
 
 - PHP 8.0 +
